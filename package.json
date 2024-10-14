@@ -13,7 +13,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/WLowe10/fastify-jsx-router"
 	},
 	"type": "module",
 	"sideEffects": false,
@@ -46,12 +46,12 @@
 		"clean:modules": "rm -rf node_modules",
 		"typecheck": "tsc --noEmit"
 	},
+	"dependencies": {
+		"react-nil": "^1.2.0"
+	},
 	"peerDependencies": {
 		"fastify": "^5.0.0",
 		"react": "^18.3.1"
-	},
-	"dependencies": {
-		"react-nil": "^1.2.0"
 	},
 	"devDependencies": {
 		"@types/react": "^18.3.11",
