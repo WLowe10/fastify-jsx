@@ -1,6 +1,6 @@
 # fastify-jsx-router
 
-> A Fastify plugin to create stateful routes with React and JSX
+> A Fastify plugin to create reactive routes with React and JSX
 
 This is a **_just-for-fun_** library to experiment with other use cases of React not related to user interfaces. This is not a helpful library for fastify applications! (This should go without saying 🙂).
 
